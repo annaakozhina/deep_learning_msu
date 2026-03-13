@@ -19,7 +19,9 @@
 ## Domesticum
 
 [Exercitationem I](./home_assignments/ha1)
+
 [Exercitationem II](./home_assignments/ha2)
+
 [Exercitationem III](./home_assignments/ha3)
 
 ## Рекомендованная литература
