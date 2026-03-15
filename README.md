@@ -13,7 +13,7 @@
 	6. Обработка естественного языка (II): LSTM, attention, transformer
 	7. Retrieval-Augmented Generation (RAG). Трансформеры (I): GPT-n, BERT, BART, T5. 
 	8. Трансформеры (II): CLIP, DALL-E, DDPM, etc...
-	9. Зачет
+	9. [**Зачет**](./exam)
 </pre></big>
 
 ## Domesticum
