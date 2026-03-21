@@ -10,9 +10,9 @@
 	3. [**Сверточные нейросети (CNNs)**](./week_3)
 	4. [**Генеративные модели в компьютерном зрении (CV)**](./week_4)
 	5. [**Обработка естественного языка (I): эмбеддинги и языковые модели, RNN**](./week_5)
-	6. Обработка естественного языка (II): LSTM, attention, transformer
-	7. Retrieval-Augmented Generation (RAG). Трансформеры (I): GPT-n, BERT, BART, T5. 
-	8. Трансформеры (II): CLIP, DALL-E, DDPM, etc...
+	6. [**Обработка естественного языка (II): LSTM, attention, encoder-decoder**](./week_6)
+	7. Трансформеры (I): self-attention, GPT-n, BERT, BART, T5. Retrieval-Augmented Generation (RAG).
+	8. Трансформеры (II): CLIP, DALL-E, DDPM. Дообучение моделей. Агенты.
 	9. [**Зачет**](./exam)
 </pre></big>
 
