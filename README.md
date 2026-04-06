@@ -11,8 +11,8 @@
 	4. [**Генеративные модели в компьютерном зрении (CV)**](./week_4)
 	5. [**Обработка естественного языка (I): эмбеддинги и языковые модели, RNN**](./week_5)
 	6. [**Обработка естественного языка (II): LSTM, attention, encoder-decoder**](./week_6)
-	7. [**Трансформеры (I): self-attention, GPT-n, BERT, BART, T5. Retrieval-Augmented Generation (RAG).**](./week_7)
-	8. Трансформеры (II): CLIP, DALL-E, DDPM. Дообучение моделей. Агенты.
+	7. [**Трансформеры, self-attention (I): GPT-n, BERT, BART, T5. Retrieval-Augmented Generation (RAG)**](./week_7)
+	8. [**Трансформеры, self-attention (II): CLIP, DALL-E, DDPM. Дообучение моделей. Агенты**](./week_8)
 	9. [**Зачет**](./exam)
 </pre></big>
 
@@ -23,6 +23,8 @@
 [Exercitationem II](./home_assignments/ha2)
 
 [Exercitationem III](./home_assignments/ha3)
+
+[Exercitationem IV](./home_assignments/ha4)
 
 ## Рекомендованная литература
 
